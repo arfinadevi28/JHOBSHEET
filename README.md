@@ -1,8 +1,11 @@
 # JHOBSHEET12
 # Latihan1
 A :  returnType 
+
 B :  methodName
+
 C :  blok kode 
+
 D :  retrun
 ![Alt text](https://github.com/arfinadevi28/JHOBSHEET/blob/master/Screenshot%20(87).png)
 # latihan2
